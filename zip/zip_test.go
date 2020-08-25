@@ -22,9 +22,9 @@ import (
 	"testing"
 	"time"
 
-	"golang.org/x/mod/module"
-	"golang.org/x/mod/sumdb/dirhash"
-	modzip "golang.org/x/mod/zip"
+	"go.transparencylog.com/mod/module"
+	"go.transparencylog.com/mod/sumdb/dirhash"
+	modzip "go.transparencylog.com/mod/zip"
 	"golang.org/x/tools/txtar"
 )
 

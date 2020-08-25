@@ -11,9 +11,9 @@ import (
 	"os"
 	"strings"
 
-	"golang.org/x/mod/internal/lazyregexp"
-	"golang.org/x/mod/module"
-	"golang.org/x/mod/sumdb/tlog"
+	"go.transparencylog.com/mod/internal/lazyregexp"
+	"go.transparencylog.com/mod/module"
+	"go.transparencylog.com/mod/sumdb/tlog"
 )
 
 // A ServerOps provides the external operations

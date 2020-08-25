@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"golang.org/x/mod/module"
+	"go.transparencylog.com/mod/module"
 )
 
 var addRequireTests = []struct {

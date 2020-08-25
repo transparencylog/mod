@@ -28,8 +28,8 @@ import (
 	"strings"
 	"unicode"
 
-	"golang.org/x/mod/internal/lazyregexp"
-	"golang.org/x/mod/module"
+	"go.transparencylog.com/mod/internal/lazyregexp"
+	"go.transparencylog.com/mod/module"
 )
 
 // A File is the parsed, interpreted form of a go.mod file.

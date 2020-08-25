@@ -1,4 +1,4 @@
-module golang.org/x/mod
+module go.transparencylog.com/mod
 
 go 1.12
 

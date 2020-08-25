@@ -9,7 +9,7 @@ import (
 	"io"
 	"os"
 
-	"golang.org/x/mod/sumdb/note"
+	"go.transparencylog.com/mod/sumdb/note"
 )
 
 func ExampleSign() {

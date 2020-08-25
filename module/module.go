@@ -103,7 +103,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"golang.org/x/mod/semver"
+	"go.transparencylog.com/mod/semver"
 	errors "golang.org/x/xerrors"
 )
 
